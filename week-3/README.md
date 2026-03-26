@@ -20,3 +20,7 @@ The model can generate text based on learned patterns, although output is not pe
 - tiktoken
 - TensorFlow / Keras
 - Google Colab
+
+
+## CoLab Link 
+https://colab.research.google.com/drive/1k8cBgRSb4KiJPNzv0SFZZUITV7BoOJV_?usp=sharing
